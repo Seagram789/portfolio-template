@@ -1,2 +1,2 @@
 run = "echo hello world"
-languague = "html"
+language = "HTML"
